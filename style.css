@@ -19,3 +19,43 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.cat-1{
+    background-color: rgb(240, 181, 240);
+    padding: 10px 30px;
+    border-radius: 8px;
+}
+.cat-2{
+    background-color: mediumaquamarine;
+    padding: 10px 30px;
+    border-radius: 8px;
+}
+.cat-3{
+    background-color: olive;
+    padding: 10px 30px;
+    border-radius: 8px;
+}
+.categories h1{
+    color: #fff;
+}
+.categories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 4px 10px lightcyan;
+}
+.card-footer{
+    background-color: #fff;
+    border-top:none;
+
+}
+#subscribe{
+    height: 300px;
+}
+#subscribe h6{
+    color: lightsteelblue;
+}
+footer{
+    text-align: center;
+}
